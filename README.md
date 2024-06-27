@@ -1,5 +1,9 @@
 # ferret
-feature importances for ferret lethal
+Calculating feature importances for ferret lethal
+
+Dataset is downloaded from https://data.cdc.gov/National-Center-for-Immunization-and-Respiratory-D/An-aggregated-dataset-of-serially-collected-influe/cr56-k9wj/about_data
+
+Rename it to ferret.csv.
 
 Run ferret.py by the following command.
 <pre>
